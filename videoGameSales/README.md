@@ -1,5 +1,5 @@
-# Lightning Data Challenge 5 - Video Game Sales
-## Please limit yourself to 1.5 hours time!
+# Data Challenge 5 - Video Game Sales
+## Please limit yourself to 4 hours time!
 ### Place your submissions to the Submissions sub-folder with the naming convention: lname_fname_LDC5.
 
 # Video Game Sales
